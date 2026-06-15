@@ -1,7 +1,6 @@
 texte = "bienvenue"
-mot = "e"
+mot = "p"
 if mot in texte:
     print("présent")
 else:
     print("error")
-    
