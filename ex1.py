@@ -1,5 +1,5 @@
 texte = "bienvenue"
-mot = "p"
+mot = "e"
 if mot in texte:
     print("présent")
 else:
